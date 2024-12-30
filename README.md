@@ -1,4 +1,4 @@
-# YOLOv8 Object Detection GUI
+# CNN-Clothing-Color-Recognition
 
 This project is a Python-based application that integrates YOLOv8 for object detection and a simple GUI using `Tkinter`. It is designed to allow users to easily load images and detect objects in them.
 
